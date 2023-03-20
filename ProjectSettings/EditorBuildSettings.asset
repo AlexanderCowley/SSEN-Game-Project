@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: e1795e2cef877b142a61b4c7e7ac7500
+  - enabled: 1
+    path: Assets/Scenes/Development Sandbox.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/TimedSceneOld.unity
+    guid: d43b16d2cea95964e91dd038d8c30188
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 204c9619a9742ff41aadefd8c11d2659
+  - enabled: 1
+    path: Assets/Scenes/HardMode.unity
+    guid: 95e1440740de3f448a62d36fe92ed74f
+  - enabled: 1
+    path: Assets/Scenes/TimedScene.unity
+    guid: 5b32ff4d71551214191e0557ee54e662
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 89f8c0b7e589993408b8837f94da2f54, type: 2}
